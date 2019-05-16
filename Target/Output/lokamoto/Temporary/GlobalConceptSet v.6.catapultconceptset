@@ -1,0 +1,1655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///C:/Users/lokamoto/Documents/My Projects/template2/ResponsiveConditions-14.liprjf/Target/Output/lokamoto/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts>
+    <ConceptEntry
+      Term="Appetizers">
+      <ConceptLink
+        Link="Appetizers/Asparagus and Fresh Dill Pastries.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Appetizers/Dragon Potatoes &amp; Yams.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Appetizers/Herb Spring Rolls.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Appetizers/Napa Valley Tomatoes.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Appetizers/Samosas.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Appetizers/Stuffed Grape Leaves.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Appetizers/Warm Spiced Pecans with Rum Glaze.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Breakfasts">
+      <ConceptLink
+        Link="Breakfasts/Artichoke and Basil Frittata.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Breakfasts/Basil Pesto and Pasta Frittata.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Breakfasts/Belgian Waffles.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Breakfasts/Hard Boiled Eggs with Carmelized Onions.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Breakfasts/Sweet Rice.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Breakfasts/Tofu Scrambler.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Desserts">
+      <ConceptLink
+        Link="Desserts &amp; Breads/Cranberry Balls.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Desserts &amp; Breads/Ebony and Ivory Chocolate Truffles.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Desserts &amp; Breads/Kahlua Mocha Flan.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Desserts &amp; Breads/Southern Pecan Pie.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Desserts &amp; Breads/Strawberries Cardinal.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Dips, Salsas &amp; Sauces">
+      <ConceptLink
+        Link="Dips, Salsas &amp; Sauces/Black Bean and Mango Salsa.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Dips, Salsas &amp; Sauces/Chipotle Yogurt.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Dips, Salsas &amp; Sauces/Cucumber, Avocado, and Garbanzo Salad.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Dips, Salsas &amp; Sauces/Green Chutney.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Dips, Salsas &amp; Sauces/Manford's Guacamole.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Dips, Salsas &amp; Sauces/Salsa Fresca.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Dips, Salsas &amp; Sauces/Spicy Peanut Sauce.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Dips, Salsas &amp; Sauces/Spinach &amp; Feta Yogurt Sauce.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Drinks &amp; Beverages">
+      <ConceptLink
+        Link="Drinks &amp; Beverages/Caipirinha.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Drinks &amp; Beverages/Cosmopolitan.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Drinks &amp; Beverages/Frank's Margaritas.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Drinks &amp; Beverages/Fresh Lemonade.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Drinks &amp; Beverages/Mojitos.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Drinks &amp; Beverages/Mulled Wine.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Drinks &amp; Beverages/Pomegranate Martini.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Drinks &amp; Beverages/Sangria.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Drinks &amp; Beverages/Sinh To Bo (Vietnamese Avocado Smoothie).htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Drinks &amp; Beverages/Tangerine Mimosas.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Fish &amp; Seafood">
+      <ConceptLink
+        Link="Main Dishes/Fish and Seafood/Halibut with Broccoli Rabe and Lemon-Thyme Butter.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Fish and Seafood/Marinated Ahi.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Fish and Seafood/Mediterranean Sole.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Fish and Seafood/Salmon with Fennel and Mashed Potatoes.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Main Dishes">
+      <ConceptLink
+        Link="Main Dishes/Chicken Enchilada Casserole.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Chilled Lime Tofu with tomatoes and black beans.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Chipotle Polenta Cakes.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Chock Full of Veggies Chili.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Creole Jambalaya.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Deep-Fried Tofu with Leeks.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Eggplant Rolls with Spicy Tomato Sauce.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Kale and Mushrooms with Polenta.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Kale over Sesame Noodles.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Portobello Mushroom Burgers.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Pot Pie.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Red Lentils and Rice with Blackened Onions.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Spring Risotto.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Stuffed Peppers with Mushrooms, Walnuts, and Greens.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Stuffed Portobellos.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Thai Coconut Red or Green Curry.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Main Dishes/Fish and Seafood/Roasted Halibut with a Shallot Crust.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Pasta Dishes &amp; Pasta Sauces">
+      <ConceptLink
+        Link="Pasta Dishes &amp; Pasta Sauces/Creamy Vodka and Herb Sauce.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Pasta Dishes &amp; Pasta Sauces/Eggplant Parmesan.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Pasta Dishes &amp; Pasta Sauces/Garlic Cream Sauce.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Pasta Dishes &amp; Pasta Sauces/Leek and Brussels Sprout Pasta.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Pasta Dishes &amp; Pasta Sauces/Lobster Lasagna.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Pasta Dishes &amp; Pasta Sauces/New Mexico Mac and Cheese.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Pasta Dishes &amp; Pasta Sauces/Stuffed Portobello Mushrooms with Creamed Spinach.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Salads">
+      <ConceptLink
+        Link="Salads/Fresh Lobster Salad.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Salads/Sugar Snap Salad.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Salads/Vegetarian Salad Nicoise.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Salads/Warm Squash Salad with Mint.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Sides">
+      <ConceptLink
+        Link="Sides/Asparagus Sauteed with Pecans.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Sides/Baked Sweet Potato and Pecans.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Sides/Calabazitas.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Sides/Cornbread.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Sides/Creamed Spinach Deluxe.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Sides/Roasted Acorn Squash.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Sides/Roasted Basil and Garlic Potatoes.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Sides/Saffron Rice.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Soups &amp; Stews">
+      <ConceptLink
+        Link="Soups/Avgolemono Soup.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Barley Stew.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Buddha Bowl.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Butternut Squash and Roasted Garlic Bisque.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Caldo Verde.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Cauliflower Soup.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Corn Chowder.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Double Celery and Potato Soup.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Lentil Soup.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Mexican Onion Soup.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Moroccan Stew.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Potato Corn Chowder.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Ramen.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Spicy Sun-Dried Tomato Soup with White Beans &amp; Swiss Chard.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Tuscan Vegetable Soup with White Beans and Parmesan.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/Vegetable Soup.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="Soups/White Bean, Kale and Roasted Vegetable Soup.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+  </Concepts>
+  <SourceUrls>
+    <Url
+      Source="!template.htm" />
+    <Url
+      Source="!template.htm.skl" />
+    <Url
+      Source="!template.htm.xlf" />
+    <Url
+      Source="index.htm" />
+    <Url
+      Source="index.htm.skl" />
+    <Url
+      Source="index.htm.xlf" />
+    <Url
+      Source="main.htm" />
+    <Url
+      Source="main.htm.skl" />
+    <Url
+      Source="main.htm.xlf" />
+    <Url
+      Source="toc.htm" />
+    <Url
+      Source="toc.htm.skl" />
+    <Url
+      Source="toc.htm.xlf" />
+    <Url
+      Source="!Experimental/Fruit Juice Caviar.htm" />
+    <Url
+      Source="!Experimental/Fruit Juice Caviar.htm.skl" />
+    <Url
+      Source="!Experimental/Fruit Juice Caviar.htm.xlf" />
+    <Url
+      Source="Additions/Bread Crisps.htm" />
+    <Url
+      Source="Additions/Bread Crisps.htm.skl" />
+    <Url
+      Source="Additions/Bread Crisps.htm.xlf" />
+    <Url
+      Source="Additions/Cheese Crisps.htm" />
+    <Url
+      Source="Additions/Cheese Crisps.htm.skl" />
+    <Url
+      Source="Additions/Cheese Crisps.htm.xlf" />
+    <Url
+      Source="Appetizers/!Appetizers.htm" />
+    <Url
+      Source="Appetizers/!Appetizers.htm.skl" />
+    <Url
+      Source="Appetizers/!Appetizers.htm.xlf" />
+    <Url
+      Source="Appetizers/Asparagus and Fresh Dill Pastries.htm" />
+    <Url
+      Source="Appetizers/Asparagus and Fresh Dill Pastries.htm.skl" />
+    <Url
+      Source="Appetizers/Asparagus and Fresh Dill Pastries.htm.xlf" />
+    <Url
+      Source="Appetizers/Chorizo and Potato Spanish Tortilla Bites.htm" />
+    <Url
+      Source="Appetizers/Chorizo and Potato Spanish Tortilla Bites.htm.skl" />
+    <Url
+      Source="Appetizers/Chorizo and Potato Spanish Tortilla Bites.htm.xlf" />
+    <Url
+      Source="Appetizers/Dragon Potatoes &amp; Yams.htm" />
+    <Url
+      Source="Appetizers/Dragon Potatoes &amp; Yams.htm.skl" />
+    <Url
+      Source="Appetizers/Dragon Potatoes &amp; Yams.htm.xlf" />
+    <Url
+      Source="Appetizers/Fried Brussels Sprouts.htm" />
+    <Url
+      Source="Appetizers/Fried Brussels Sprouts.htm.skl" />
+    <Url
+      Source="Appetizers/Fried Brussels Sprouts.htm.xlf" />
+    <Url
+      Source="Appetizers/Herb Spring Rolls.htm" />
+    <Url
+      Source="Appetizers/Herb Spring Rolls.htm.skl" />
+    <Url
+      Source="Appetizers/Herb Spring Rolls.htm.xlf" />
+    <Url
+      Source="Appetizers/Napa Valley Tomatoes.htm" />
+    <Url
+      Source="Appetizers/Napa Valley Tomatoes.htm.skl" />
+    <Url
+      Source="Appetizers/Napa Valley Tomatoes.htm.xlf" />
+    <Url
+      Source="Appetizers/Samosas.htm" />
+    <Url
+      Source="Appetizers/Samosas.htm.skl" />
+    <Url
+      Source="Appetizers/Samosas.htm.xlf" />
+    <Url
+      Source="Appetizers/Stuffed Grape Leaves.htm" />
+    <Url
+      Source="Appetizers/Stuffed Grape Leaves.htm.skl" />
+    <Url
+      Source="Appetizers/Stuffed Grape Leaves.htm.xlf" />
+    <Url
+      Source="Appetizers/Warm Spiced Pecans with Rum Glaze.htm" />
+    <Url
+      Source="Appetizers/Warm Spiced Pecans with Rum Glaze.htm.skl" />
+    <Url
+      Source="Appetizers/Warm Spiced Pecans with Rum Glaze.htm.xlf" />
+    <Url
+      Source="Breakfasts/!Breakfasts.htm" />
+    <Url
+      Source="Breakfasts/!Breakfasts.htm.skl" />
+    <Url
+      Source="Breakfasts/!Breakfasts.htm.xlf" />
+    <Url
+      Source="Breakfasts/Artichoke and Basil Frittata.htm" />
+    <Url
+      Source="Breakfasts/Artichoke and Basil Frittata.htm.skl" />
+    <Url
+      Source="Breakfasts/Artichoke and Basil Frittata.htm.xlf" />
+    <Url
+      Source="Breakfasts/Basil Pesto and Pasta Frittata.htm" />
+    <Url
+      Source="Breakfasts/Basil Pesto and Pasta Frittata.htm.skl" />
+    <Url
+      Source="Breakfasts/Basil Pesto and Pasta Frittata.htm.xlf" />
+    <Url
+      Source="Breakfasts/Belgian Waffles.htm" />
+    <Url
+      Source="Breakfasts/Belgian Waffles.htm.skl" />
+    <Url
+      Source="Breakfasts/Belgian Waffles.htm.xlf" />
+    <Url
+      Source="Breakfasts/Hard Boiled Eggs with Carmelized Onions.htm" />
+    <Url
+      Source="Breakfasts/Hard Boiled Eggs with Carmelized Onions.htm.skl" />
+    <Url
+      Source="Breakfasts/Hard Boiled Eggs with Carmelized Onions.htm.xlf" />
+    <Url
+      Source="Breakfasts/Sweet Rice.htm" />
+    <Url
+      Source="Breakfasts/Sweet Rice.htm.skl" />
+    <Url
+      Source="Breakfasts/Sweet Rice.htm.xlf" />
+    <Url
+      Source="Breakfasts/Tofu Scrambler.htm" />
+    <Url
+      Source="Breakfasts/Tofu Scrambler.htm.skl" />
+    <Url
+      Source="Breakfasts/Tofu Scrambler.htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/!Desserts.htm" />
+    <Url
+      Source="Desserts &amp; Breads/!Desserts.htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/!Desserts.htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/Bitter Chocolate Mousse.htm" />
+    <Url
+      Source="Desserts &amp; Breads/Bitter Chocolate Mousse.htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/Bitter Chocolate Mousse.htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/Cranberry Balls.htm" />
+    <Url
+      Source="Desserts &amp; Breads/Cranberry Balls.htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/Cranberry Balls.htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/Ebony and Ivory Chocolate Truffles.htm" />
+    <Url
+      Source="Desserts &amp; Breads/Ebony and Ivory Chocolate Truffles.htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/Ebony and Ivory Chocolate Truffles.htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/Fig Bars.htm" />
+    <Url
+      Source="Desserts &amp; Breads/Fig Bars.htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/Fig Bars.htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/Hearty Multigrain Bread.htm" />
+    <Url
+      Source="Desserts &amp; Breads/Hearty Multigrain Bread.htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/Hearty Multigrain Bread.htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/Kahlua Mocha Flan.htm" />
+    <Url
+      Source="Desserts &amp; Breads/Kahlua Mocha Flan.htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/Kahlua Mocha Flan.htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/Roy's Chocolate Souffle (molten lava cake).htm" />
+    <Url
+      Source="Desserts &amp; Breads/Roy's Chocolate Souffle (molten lava cake).htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/Roy's Chocolate Souffle (molten lava cake).htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/Southern Pecan Pie.htm" />
+    <Url
+      Source="Desserts &amp; Breads/Southern Pecan Pie.htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/Southern Pecan Pie.htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/Strawberries Cardinal.htm" />
+    <Url
+      Source="Desserts &amp; Breads/Strawberries Cardinal.htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/Strawberries Cardinal.htm.xlf" />
+    <Url
+      Source="Desserts &amp; Breads/Tiramisu.htm" />
+    <Url
+      Source="Desserts &amp; Breads/Tiramisu.htm.skl" />
+    <Url
+      Source="Desserts &amp; Breads/Tiramisu.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/!Dips.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/!Dips.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/!Dips.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Black Bean and Mango Salsa.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Black Bean and Mango Salsa.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Black Bean and Mango Salsa.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Chipotle Yogurt.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Chipotle Yogurt.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Chipotle Yogurt.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Cucumber, Avocado, and Garbanzo Salad.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Cucumber, Avocado, and Garbanzo Salad.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Cucumber, Avocado, and Garbanzo Salad.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Green Chutney.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Green Chutney.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Green Chutney.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Manford's Guacamole.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Manford's Guacamole.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Manford's Guacamole.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Pomegranate-Cumin Dressing.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Pomegranate-Cumin Dressing.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Pomegranate-Cumin Dressing.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Quick Pickled Peppers.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Quick Pickled Peppers.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Quick Pickled Peppers.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Salsa Fresca.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Salsa Fresca.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Salsa Fresca.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Spicy Peanut Sauce.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Spicy Peanut Sauce.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Spicy Peanut Sauce.htm.xlf" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Spinach &amp; Feta Yogurt Sauce.htm" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Spinach &amp; Feta Yogurt Sauce.htm.skl" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Spinach &amp; Feta Yogurt Sauce.htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/!Drinks &amp; Beverages.htm" />
+    <Url
+      Source="Drinks &amp; Beverages/!Drinks &amp; Beverages.htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/!Drinks &amp; Beverages.htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/Caipirinha.htm" />
+    <Url
+      Source="Drinks &amp; Beverages/Caipirinha.htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/Caipirinha.htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/Cosmopolitan.htm" />
+    <Url
+      Source="Drinks &amp; Beverages/Cosmopolitan.htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/Cosmopolitan.htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/Frank's Margaritas.htm" />
+    <Url
+      Source="Drinks &amp; Beverages/Frank's Margaritas.htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/Frank's Margaritas.htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/Fresh Lemonade.htm" />
+    <Url
+      Source="Drinks &amp; Beverages/Fresh Lemonade.htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/Fresh Lemonade.htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/Mojitos.htm" />
+    <Url
+      Source="Drinks &amp; Beverages/Mojitos.htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/Mojitos.htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/Mulled Wine.htm" />
+    <Url
+      Source="Drinks &amp; Beverages/Mulled Wine.htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/Mulled Wine.htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/Pomegranate Martini.htm" />
+    <Url
+      Source="Drinks &amp; Beverages/Pomegranate Martini.htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/Pomegranate Martini.htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/Sangria.htm" />
+    <Url
+      Source="Drinks &amp; Beverages/Sangria.htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/Sangria.htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/Sinh To Bo (Vietnamese Avocado Smoothie).htm" />
+    <Url
+      Source="Drinks &amp; Beverages/Sinh To Bo (Vietnamese Avocado Smoothie).htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/Sinh To Bo (Vietnamese Avocado Smoothie).htm.xlf" />
+    <Url
+      Source="Drinks &amp; Beverages/Tangerine Mimosas.htm" />
+    <Url
+      Source="Drinks &amp; Beverages/Tangerine Mimosas.htm.skl" />
+    <Url
+      Source="Drinks &amp; Beverages/Tangerine Mimosas.htm.xlf" />
+    <Url
+      Source="Main Dishes/!Main Dishes.htm" />
+    <Url
+      Source="Main Dishes/!Main Dishes.htm.skl" />
+    <Url
+      Source="Main Dishes/!Main Dishes.htm.xlf" />
+    <Url
+      Source="Main Dishes/Black Bean Chili.htm" />
+    <Url
+      Source="Main Dishes/Black Bean Chili.htm.skl" />
+    <Url
+      Source="Main Dishes/Black Bean Chili.htm.xlf" />
+    <Url
+      Source="Main Dishes/Chicken Enchilada Casserole.htm" />
+    <Url
+      Source="Main Dishes/Chicken Enchilada Casserole.htm.skl" />
+    <Url
+      Source="Main Dishes/Chicken Enchilada Casserole.htm.xlf" />
+    <Url
+      Source="Main Dishes/Chile Rellenos.htm" />
+    <Url
+      Source="Main Dishes/Chile Rellenos.htm.skl" />
+    <Url
+      Source="Main Dishes/Chile Rellenos.htm.xlf" />
+    <Url
+      Source="Main Dishes/Chilled Lime Tofu with tomatoes and black beans.htm" />
+    <Url
+      Source="Main Dishes/Chilled Lime Tofu with tomatoes and black beans.htm.skl" />
+    <Url
+      Source="Main Dishes/Chilled Lime Tofu with tomatoes and black beans.htm.xlf" />
+    <Url
+      Source="Main Dishes/Chipotle Polenta Cakes.htm" />
+    <Url
+      Source="Main Dishes/Chipotle Polenta Cakes.htm.skl" />
+    <Url
+      Source="Main Dishes/Chipotle Polenta Cakes.htm.xlf" />
+    <Url
+      Source="Main Dishes/Chock Full of Veggies Chili.htm" />
+    <Url
+      Source="Main Dishes/Chock Full of Veggies Chili.htm.skl" />
+    <Url
+      Source="Main Dishes/Chock Full of Veggies Chili.htm.xlf" />
+    <Url
+      Source="Main Dishes/Creole Jambalaya.htm" />
+    <Url
+      Source="Main Dishes/Creole Jambalaya.htm.skl" />
+    <Url
+      Source="Main Dishes/Creole Jambalaya.htm.xlf" />
+    <Url
+      Source="Main Dishes/Deep-Fried Tofu with Leeks.htm" />
+    <Url
+      Source="Main Dishes/Deep-Fried Tofu with Leeks.htm.skl" />
+    <Url
+      Source="Main Dishes/Deep-Fried Tofu with Leeks.htm.xlf" />
+    <Url
+      Source="Main Dishes/Eggplant Rolls with Spicy Tomato Sauce.htm" />
+    <Url
+      Source="Main Dishes/Eggplant Rolls with Spicy Tomato Sauce.htm.skl" />
+    <Url
+      Source="Main Dishes/Eggplant Rolls with Spicy Tomato Sauce.htm.xlf" />
+    <Url
+      Source="Main Dishes/Eggplant Tacos.htm" />
+    <Url
+      Source="Main Dishes/Eggplant Tacos.htm.skl" />
+    <Url
+      Source="Main Dishes/Eggplant Tacos.htm.xlf" />
+    <Url
+      Source="Main Dishes/Grilled Sausage and Fig Pizza with Goat Cheese.htm" />
+    <Url
+      Source="Main Dishes/Grilled Sausage and Fig Pizza with Goat Cheese.htm.skl" />
+    <Url
+      Source="Main Dishes/Grilled Sausage and Fig Pizza with Goat Cheese.htm.xlf" />
+    <Url
+      Source="Main Dishes/Kale and Mushrooms with Polenta.htm" />
+    <Url
+      Source="Main Dishes/Kale and Mushrooms with Polenta.htm.skl" />
+    <Url
+      Source="Main Dishes/Kale and Mushrooms with Polenta.htm.xlf" />
+    <Url
+      Source="Main Dishes/Kale over Sesame Noodles.htm" />
+    <Url
+      Source="Main Dishes/Kale over Sesame Noodles.htm.skl" />
+    <Url
+      Source="Main Dishes/Kale over Sesame Noodles.htm.xlf" />
+    <Url
+      Source="Main Dishes/Portobello Mushroom Burgers.htm" />
+    <Url
+      Source="Main Dishes/Portobello Mushroom Burgers.htm.skl" />
+    <Url
+      Source="Main Dishes/Portobello Mushroom Burgers.htm.xlf" />
+    <Url
+      Source="Main Dishes/Pot Pie.htm" />
+    <Url
+      Source="Main Dishes/Pot Pie.htm.skl" />
+    <Url
+      Source="Main Dishes/Pot Pie.htm.xlf" />
+    <Url
+      Source="Main Dishes/Quinoa-Stuffed Peppers.htm" />
+    <Url
+      Source="Main Dishes/Quinoa-Stuffed Peppers.htm.skl" />
+    <Url
+      Source="Main Dishes/Quinoa-Stuffed Peppers.htm.xlf" />
+    <Url
+      Source="Main Dishes/Ratatouille.htm" />
+    <Url
+      Source="Main Dishes/Ratatouille.htm.skl" />
+    <Url
+      Source="Main Dishes/Ratatouille.htm.xlf" />
+    <Url
+      Source="Main Dishes/Red Lentils and Rice with Blackened Onions.htm" />
+    <Url
+      Source="Main Dishes/Red Lentils and Rice with Blackened Onions.htm.skl" />
+    <Url
+      Source="Main Dishes/Red Lentils and Rice with Blackened Onions.htm.xlf" />
+    <Url
+      Source="Main Dishes/Southwestern Quinoa Salad with Black Beans, Red Bell Pepper, and Cilantro.htm" />
+    <Url
+      Source="Main Dishes/Southwestern Quinoa Salad with Black Beans, Red Bell Pepper, and Cilantro.htm.skl" />
+    <Url
+      Source="Main Dishes/Southwestern Quinoa Salad with Black Beans, Red Bell Pepper, and Cilantro.htm.xlf" />
+    <Url
+      Source="Main Dishes/Spicy Tofu Lettuce Wraps.htm" />
+    <Url
+      Source="Main Dishes/Spicy Tofu Lettuce Wraps.htm.skl" />
+    <Url
+      Source="Main Dishes/Spicy Tofu Lettuce Wraps.htm.xlf" />
+    <Url
+      Source="Main Dishes/Spring Risotto.htm" />
+    <Url
+      Source="Main Dishes/Spring Risotto.htm.skl" />
+    <Url
+      Source="Main Dishes/Spring Risotto.htm.xlf" />
+    <Url
+      Source="Main Dishes/Stuffed Peppers with Mushrooms, Walnuts, and Greens.htm" />
+    <Url
+      Source="Main Dishes/Stuffed Peppers with Mushrooms, Walnuts, and Greens.htm.skl" />
+    <Url
+      Source="Main Dishes/Stuffed Peppers with Mushrooms, Walnuts, and Greens.htm.xlf" />
+    <Url
+      Source="Main Dishes/Stuffed Portobellos.htm" />
+    <Url
+      Source="Main Dishes/Stuffed Portobellos.htm.skl" />
+    <Url
+      Source="Main Dishes/Stuffed Portobellos.htm.xlf" />
+    <Url
+      Source="Main Dishes/Tamales.htm" />
+    <Url
+      Source="Main Dishes/Tamales.htm.skl" />
+    <Url
+      Source="Main Dishes/Tamales.htm.xlf" />
+    <Url
+      Source="Main Dishes/Thai Coconut Red or Green Curry.htm" />
+    <Url
+      Source="Main Dishes/Thai Coconut Red or Green Curry.htm.skl" />
+    <Url
+      Source="Main Dishes/Thai Coconut Red or Green Curry.htm.xlf" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Halibut with Broccoli Rabe and Lemon-Thyme Butter.htm" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Halibut with Broccoli Rabe and Lemon-Thyme Butter.htm.skl" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Halibut with Broccoli Rabe and Lemon-Thyme Butter.htm.xlf" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Marinated Ahi.htm" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Marinated Ahi.htm.skl" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Marinated Ahi.htm.xlf" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Mediterranean Sole.htm" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Mediterranean Sole.htm.skl" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Mediterranean Sole.htm.xlf" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Roasted Halibut with a Shallot Crust.htm" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Roasted Halibut with a Shallot Crust.htm.skl" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Roasted Halibut with a Shallot Crust.htm.xlf" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Salmon with Fennel and Mashed Potatoes.htm" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Salmon with Fennel and Mashed Potatoes.htm.skl" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Salmon with Fennel and Mashed Potatoes.htm.xlf" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Smoked Salmon.htm" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Smoked Salmon.htm.skl" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Smoked Salmon.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/!Pasta.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/!Pasta.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/!Pasta.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Classic Basil Pesto.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Classic Basil Pesto.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Classic Basil Pesto.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Creamy Vodka and Herb Sauce.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Creamy Vodka and Herb Sauce.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Creamy Vodka and Herb Sauce.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Eggplant Parmesan.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Eggplant Parmesan.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Eggplant Parmesan.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Garlic Cream Sauce.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Garlic Cream Sauce.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Garlic Cream Sauce.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Lasagne.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Lasagne.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Lasagne.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Leek and Brussels Sprout Pasta.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Leek and Brussels Sprout Pasta.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Leek and Brussels Sprout Pasta.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Lobster Lasagna.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Lobster Lasagna.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Lobster Lasagna.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Marinara Sauce.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Marinara Sauce.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Marinara Sauce.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/New Mexico Mac and Cheese.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/New Mexico Mac and Cheese.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/New Mexico Mac and Cheese.htm.xlf" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Stuffed Portobello Mushrooms with Creamed Spinach.htm" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Stuffed Portobello Mushrooms with Creamed Spinach.htm.skl" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Stuffed Portobello Mushrooms with Creamed Spinach.htm.xlf" />
+    <Url
+      Source="Resources/Images/Appetizers.png" />
+    <Url
+      Source="Resources/Images/Breakfast.jpg" />
+    <Url
+      Source="Resources/Images/Breakfast.png" />
+    <Url
+      Source="Resources/Images/CBPage.png" />
+    <Url
+      Source="Resources/Images/ChilledRedPepperSoup.png" />
+    <Url
+      Source="Resources/Images/Dessert.png" />
+    <Url
+      Source="Resources/Images/Dips_Sauces.png" />
+    <Url
+      Source="Resources/Images/Drinks.png" />
+    <Url
+      Source="Resources/Images/eggplantrolls.jpg" />
+    <Url
+      Source="Resources/Images/KaleMushroomPolenta.jpg" />
+    <Url
+      Source="Resources/Images/LasagnaCupcakes.png" />
+    <Url
+      Source="Resources/Images/MainDishes.png" />
+    <Url
+      Source="Resources/Images/MetSole.png" />
+    <Url
+      Source="Resources/Images/Napa-Tomato-Plate.jpg" />
+    <Url
+      Source="Resources/Images/NapaCabbagegingersalad.png" />
+    <Url
+      Source="Resources/Images/New.png" />
+    <Url
+      Source="Resources/Images/Pasta.png" />
+    <Url
+      Source="Resources/Images/ratatouille.png" />
+    <Url
+      Source="Resources/Images/Salads.png" />
+    <Url
+      Source="Resources/Images/Salmon with Fennel and Mashed Potatoes.jpg" />
+    <Url
+      Source="Resources/Images/Sides.png" />
+    <Url
+      Source="Resources/Images/Soups.png" />
+    <Url
+      Source="Resources/Images/StoneBrewingReview.png" />
+    <Url
+      Source="Resources/Images/tofu-lettuce-wrap.png" />
+    <Url
+      Source="Resources/MasterPages/MainMasterPage.flmsp" />
+    <Url
+      Source="Resources/MasterPages/MainMasterPage.flmsp.skl" />
+    <Url
+      Source="Resources/MasterPages/MainMasterPage.flmsp.xlf" />
+    <Url
+      Source="Resources/MasterPages/NoNav.flmsp" />
+    <Url
+      Source="Resources/MasterPages/NoNav.flmsp.skl" />
+    <Url
+      Source="Resources/MasterPages/NoNav.flmsp.xlf" />
+    <Url
+      Source="Resources/PageLayouts/Cookbook.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Cookbook.flpgl.skl" />
+    <Url
+      Source="Resources/PageLayouts/Cookbook.flpgl.xlf" />
+    <Url
+      Source="Resources/PageLayouts/index.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/index.flpgl.skl" />
+    <Url
+      Source="Resources/PageLayouts/index.flpgl.xlf" />
+    <Url
+      Source="Resources/Snippets/Information.flsnp" />
+    <Url
+      Source="Resources/Snippets/Information.flsnp.skl" />
+    <Url
+      Source="Resources/Snippets/Information.flsnp.xlf" />
+    <Url
+      Source="Resources/Snippets/Ingredients.flsnp" />
+    <Url
+      Source="Resources/Snippets/Ingredients.flsnp.skl" />
+    <Url
+      Source="Resources/Snippets/Ingredients.flsnp.xlf" />
+    <Url
+      Source="Resources/Snippets/Preparation.flsnp" />
+    <Url
+      Source="Resources/Snippets/Preparation.flsnp.skl" />
+    <Url
+      Source="Resources/Snippets/Preparation.flsnp.xlf" />
+    <Url
+      Source="Resources/Snippets/Suggestions.flsnp" />
+    <Url
+      Source="Resources/Snippets/Suggestions.flsnp.skl" />
+    <Url
+      Source="Resources/Snippets/Suggestions.flsnp.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.xlf" />
+    <Url
+      Source="Salads/!Salads.htm" />
+    <Url
+      Source="Salads/!Salads.htm.skl" />
+    <Url
+      Source="Salads/!Salads.htm.xlf" />
+    <Url
+      Source="Salads/Arugula &amp; Beet Salad.htm" />
+    <Url
+      Source="Salads/Arugula &amp; Beet Salad.htm.skl" />
+    <Url
+      Source="Salads/Arugula &amp; Beet Salad.htm.xlf" />
+    <Url
+      Source="Salads/Fresh Lobster Salad.htm" />
+    <Url
+      Source="Salads/Fresh Lobster Salad.htm.skl" />
+    <Url
+      Source="Salads/Fresh Lobster Salad.htm.xlf" />
+    <Url
+      Source="Salads/Napa Cabbage Salad with Red Bell Pepper, Cilantro, Peanuts, and Dijon-Ginger Dressing.htm" />
+    <Url
+      Source="Salads/Napa Cabbage Salad with Red Bell Pepper, Cilantro, Peanuts, and Dijon-Ginger Dressing.htm.skl" />
+    <Url
+      Source="Salads/Napa Cabbage Salad with Red Bell Pepper, Cilantro, Peanuts, and Dijon-Ginger Dressing.htm.xlf" />
+    <Url
+      Source="Salads/Sugar Snap Salad.htm" />
+    <Url
+      Source="Salads/Sugar Snap Salad.htm.skl" />
+    <Url
+      Source="Salads/Sugar Snap Salad.htm.xlf" />
+    <Url
+      Source="Salads/Vegetarian Salad Nicoise.htm" />
+    <Url
+      Source="Salads/Vegetarian Salad Nicoise.htm.skl" />
+    <Url
+      Source="Salads/Vegetarian Salad Nicoise.htm.xlf" />
+    <Url
+      Source="Salads/Warm Squash Salad with Mint.htm" />
+    <Url
+      Source="Salads/Warm Squash Salad with Mint.htm.skl" />
+    <Url
+      Source="Salads/Warm Squash Salad with Mint.htm.xlf" />
+    <Url
+      Source="Sides/!Side Dishes.htm" />
+    <Url
+      Source="Sides/!Side Dishes.htm.skl" />
+    <Url
+      Source="Sides/!Side Dishes.htm.xlf" />
+    <Url
+      Source="Sides/Asparagus Sauteed with Pecans.htm" />
+    <Url
+      Source="Sides/Asparagus Sauteed with Pecans.htm.skl" />
+    <Url
+      Source="Sides/Asparagus Sauteed with Pecans.htm.xlf" />
+    <Url
+      Source="Sides/Baked Sweet Potato and Pecans.htm" />
+    <Url
+      Source="Sides/Baked Sweet Potato and Pecans.htm.skl" />
+    <Url
+      Source="Sides/Baked Sweet Potato and Pecans.htm.xlf" />
+    <Url
+      Source="Sides/Calabazitas.htm" />
+    <Url
+      Source="Sides/Calabazitas.htm.skl" />
+    <Url
+      Source="Sides/Calabazitas.htm.xlf" />
+    <Url
+      Source="Sides/Chevre Polenta.htm" />
+    <Url
+      Source="Sides/Chevre Polenta.htm.skl" />
+    <Url
+      Source="Sides/Chevre Polenta.htm.xlf" />
+    <Url
+      Source="Sides/Cornbread.htm" />
+    <Url
+      Source="Sides/Cornbread.htm.skl" />
+    <Url
+      Source="Sides/Cornbread.htm.xlf" />
+    <Url
+      Source="Sides/Creamed Spinach Deluxe.htm" />
+    <Url
+      Source="Sides/Creamed Spinach Deluxe.htm.skl" />
+    <Url
+      Source="Sides/Creamed Spinach Deluxe.htm.xlf" />
+    <Url
+      Source="Sides/Mexican Rice.htm" />
+    <Url
+      Source="Sides/Mexican Rice.htm.skl" />
+    <Url
+      Source="Sides/Mexican Rice.htm.xlf" />
+    <Url
+      Source="Sides/Roasted Acorn Squash.htm" />
+    <Url
+      Source="Sides/Roasted Acorn Squash.htm.skl" />
+    <Url
+      Source="Sides/Roasted Acorn Squash.htm.xlf" />
+    <Url
+      Source="Sides/Roasted Basil and Garlic Potatoes.htm" />
+    <Url
+      Source="Sides/Roasted Basil and Garlic Potatoes.htm.skl" />
+    <Url
+      Source="Sides/Roasted Basil and Garlic Potatoes.htm.xlf" />
+    <Url
+      Source="Sides/Saffron Rice.htm" />
+    <Url
+      Source="Sides/Saffron Rice.htm.skl" />
+    <Url
+      Source="Sides/Saffron Rice.htm.xlf" />
+    <Url
+      Source="Soups/!Soups &amp; Stews.htm" />
+    <Url
+      Source="Soups/!Soups &amp; Stews.htm.skl" />
+    <Url
+      Source="Soups/!Soups &amp; Stews.htm.xlf" />
+    <Url
+      Source="Soups/Avgolemono Soup.htm" />
+    <Url
+      Source="Soups/Avgolemono Soup.htm.skl" />
+    <Url
+      Source="Soups/Avgolemono Soup.htm.xlf" />
+    <Url
+      Source="Soups/Barley Stew.htm" />
+    <Url
+      Source="Soups/Barley Stew.htm.skl" />
+    <Url
+      Source="Soups/Barley Stew.htm.xlf" />
+    <Url
+      Source="Soups/Black-eyed Pea New Years Soup.htm" />
+    <Url
+      Source="Soups/Black-eyed Pea New Years Soup.htm.skl" />
+    <Url
+      Source="Soups/Black-eyed Pea New Years Soup.htm.xlf" />
+    <Url
+      Source="Soups/Broccoli Soup.htm" />
+    <Url
+      Source="Soups/Broccoli Soup.htm.skl" />
+    <Url
+      Source="Soups/Broccoli Soup.htm.xlf" />
+    <Url
+      Source="Soups/Brussels Sprouts &amp; Sausage Soup.htm" />
+    <Url
+      Source="Soups/Brussels Sprouts &amp; Sausage Soup.htm.skl" />
+    <Url
+      Source="Soups/Brussels Sprouts &amp; Sausage Soup.htm.xlf" />
+    <Url
+      Source="Soups/Buddha Bowl.htm" />
+    <Url
+      Source="Soups/Buddha Bowl.htm.skl" />
+    <Url
+      Source="Soups/Buddha Bowl.htm.xlf" />
+    <Url
+      Source="Soups/Butternut Squash and Roasted Garlic Bisque.htm" />
+    <Url
+      Source="Soups/Butternut Squash and Roasted Garlic Bisque.htm.skl" />
+    <Url
+      Source="Soups/Butternut Squash and Roasted Garlic Bisque.htm.xlf" />
+    <Url
+      Source="Soups/Caldo Verde.htm" />
+    <Url
+      Source="Soups/Caldo Verde.htm.skl" />
+    <Url
+      Source="Soups/Caldo Verde.htm.xlf" />
+    <Url
+      Source="Soups/Cauliflower Soup.htm" />
+    <Url
+      Source="Soups/Cauliflower Soup.htm.skl" />
+    <Url
+      Source="Soups/Cauliflower Soup.htm.xlf" />
+    <Url
+      Source="Soups/Chilled Red Pepper and Habanero Soup.htm" />
+    <Url
+      Source="Soups/Chilled Red Pepper and Habanero Soup.htm.skl" />
+    <Url
+      Source="Soups/Chilled Red Pepper and Habanero Soup.htm.xlf" />
+    <Url
+      Source="Soups/Corn Chowder.htm" />
+    <Url
+      Source="Soups/Corn Chowder.htm.skl" />
+    <Url
+      Source="Soups/Corn Chowder.htm.xlf" />
+    <Url
+      Source="Soups/Double Celery and Potato Soup.htm" />
+    <Url
+      Source="Soups/Double Celery and Potato Soup.htm.skl" />
+    <Url
+      Source="Soups/Double Celery and Potato Soup.htm.xlf" />
+    <Url
+      Source="Soups/Garlic, Cheddar, and Stone Ruination IPA Soup.htm" />
+    <Url
+      Source="Soups/Garlic, Cheddar, and Stone Ruination IPA Soup.htm.skl" />
+    <Url
+      Source="Soups/Garlic, Cheddar, and Stone Ruination IPA Soup.htm.xlf" />
+    <Url
+      Source="Soups/Lentil Soup.htm" />
+    <Url
+      Source="Soups/Lentil Soup.htm.skl" />
+    <Url
+      Source="Soups/Lentil Soup.htm.xlf" />
+    <Url
+      Source="Soups/Mexican Onion Soup.htm" />
+    <Url
+      Source="Soups/Mexican Onion Soup.htm.skl" />
+    <Url
+      Source="Soups/Mexican Onion Soup.htm.xlf" />
+    <Url
+      Source="Soups/Moroccan Stew.htm" />
+    <Url
+      Source="Soups/Moroccan Stew.htm.skl" />
+    <Url
+      Source="Soups/Moroccan Stew.htm.xlf" />
+    <Url
+      Source="Soups/Mushroom Stew.htm" />
+    <Url
+      Source="Soups/Mushroom Stew.htm.skl" />
+    <Url
+      Source="Soups/Mushroom Stew.htm.xlf" />
+    <Url
+      Source="Soups/Pasole.htm" />
+    <Url
+      Source="Soups/Pasole.htm.skl" />
+    <Url
+      Source="Soups/Pasole.htm.xlf" />
+    <Url
+      Source="Soups/Potato Corn Chowder.htm" />
+    <Url
+      Source="Soups/Potato Corn Chowder.htm.skl" />
+    <Url
+      Source="Soups/Potato Corn Chowder.htm.xlf" />
+    <Url
+      Source="Soups/Ramen.htm" />
+    <Url
+      Source="Soups/Ramen.htm.skl" />
+    <Url
+      Source="Soups/Ramen.htm.xlf" />
+    <Url
+      Source="Soups/Spicy Sun-Dried Tomato Soup with White Beans &amp; Swiss Chard.htm" />
+    <Url
+      Source="Soups/Spicy Sun-Dried Tomato Soup with White Beans &amp; Swiss Chard.htm.skl" />
+    <Url
+      Source="Soups/Spicy Sun-Dried Tomato Soup with White Beans &amp; Swiss Chard.htm.xlf" />
+    <Url
+      Source="Soups/Tuscan Vegetable Soup with White Beans and Parmesan.htm" />
+    <Url
+      Source="Soups/Tuscan Vegetable Soup with White Beans and Parmesan.htm.skl" />
+    <Url
+      Source="Soups/Tuscan Vegetable Soup with White Beans and Parmesan.htm.xlf" />
+    <Url
+      Source="Soups/Vegetable Soup.htm" />
+    <Url
+      Source="Soups/Vegetable Soup.htm.skl" />
+    <Url
+      Source="Soups/Vegetable Soup.htm.xlf" />
+    <Url
+      Source="Soups/White Bean, Kale and Roasted Vegetable Soup.htm" />
+    <Url
+      Source="Soups/White Bean, Kale and Roasted Vegetable Soup.htm.skl" />
+    <Url
+      Source="Soups/White Bean, Kale and Roasted Vegetable Soup.htm.xlf" />
+  </SourceUrls>
+  <UsedUrls>
+    <Url
+      Source="Appetizers/Asparagus and Fresh Dill Pastries.htm"
+      Terms="Appetizers" />
+    <Url
+      Source="Appetizers/Dragon Potatoes &amp; Yams.htm"
+      Terms="Appetizers" />
+    <Url
+      Source="Appetizers/Herb Spring Rolls.htm"
+      Terms="Appetizers" />
+    <Url
+      Source="Appetizers/Napa Valley Tomatoes.htm"
+      Terms="Appetizers" />
+    <Url
+      Source="Appetizers/Samosas.htm"
+      Terms="Appetizers" />
+    <Url
+      Source="Appetizers/Stuffed Grape Leaves.htm"
+      Terms="Appetizers" />
+    <Url
+      Source="Appetizers/Warm Spiced Pecans with Rum Glaze.htm"
+      Terms="Appetizers" />
+    <Url
+      Source="Breakfasts/Artichoke and Basil Frittata.htm"
+      Terms="Breakfasts" />
+    <Url
+      Source="Breakfasts/Basil Pesto and Pasta Frittata.htm"
+      Terms="Breakfasts" />
+    <Url
+      Source="Breakfasts/Belgian Waffles.htm"
+      Terms="Breakfasts" />
+    <Url
+      Source="Breakfasts/Hard Boiled Eggs with Carmelized Onions.htm"
+      Terms="Breakfasts" />
+    <Url
+      Source="Breakfasts/Sweet Rice.htm"
+      Terms="Breakfasts" />
+    <Url
+      Source="Breakfasts/Tofu Scrambler.htm"
+      Terms="Breakfasts" />
+    <Url
+      Source="Desserts &amp; Breads/Cranberry Balls.htm"
+      Terms="Desserts" />
+    <Url
+      Source="Desserts &amp; Breads/Ebony and Ivory Chocolate Truffles.htm"
+      Terms="Desserts" />
+    <Url
+      Source="Desserts &amp; Breads/Kahlua Mocha Flan.htm"
+      Terms="Desserts" />
+    <Url
+      Source="Desserts &amp; Breads/Southern Pecan Pie.htm"
+      Terms="Desserts" />
+    <Url
+      Source="Desserts &amp; Breads/Strawberries Cardinal.htm"
+      Terms="Desserts" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Black Bean and Mango Salsa.htm"
+      Terms="Dips, Salsas &amp; Sauces" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Chipotle Yogurt.htm"
+      Terms="Dips, Salsas &amp; Sauces" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Cucumber, Avocado, and Garbanzo Salad.htm"
+      Terms="Dips, Salsas &amp; Sauces" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Green Chutney.htm"
+      Terms="Dips, Salsas &amp; Sauces" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Manford's Guacamole.htm"
+      Terms="Dips, Salsas &amp; Sauces" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Salsa Fresca.htm"
+      Terms="Dips, Salsas &amp; Sauces" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Spicy Peanut Sauce.htm"
+      Terms="Dips, Salsas &amp; Sauces" />
+    <Url
+      Source="Dips, Salsas &amp; Sauces/Spinach &amp; Feta Yogurt Sauce.htm"
+      Terms="Dips, Salsas &amp; Sauces" />
+    <Url
+      Source="Drinks &amp; Beverages/Caipirinha.htm"
+      Terms="Drinks &amp; Beverages" />
+    <Url
+      Source="Drinks &amp; Beverages/Cosmopolitan.htm"
+      Terms="Drinks &amp; Beverages" />
+    <Url
+      Source="Drinks &amp; Beverages/Frank's Margaritas.htm"
+      Terms="Drinks &amp; Beverages" />
+    <Url
+      Source="Drinks &amp; Beverages/Fresh Lemonade.htm"
+      Terms="Drinks &amp; Beverages" />
+    <Url
+      Source="Drinks &amp; Beverages/Mojitos.htm"
+      Terms="Drinks &amp; Beverages" />
+    <Url
+      Source="Drinks &amp; Beverages/Mulled Wine.htm"
+      Terms="Drinks &amp; Beverages" />
+    <Url
+      Source="Drinks &amp; Beverages/Pomegranate Martini.htm"
+      Terms="Drinks &amp; Beverages" />
+    <Url
+      Source="Drinks &amp; Beverages/Sangria.htm"
+      Terms="Drinks &amp; Beverages" />
+    <Url
+      Source="Drinks &amp; Beverages/Sinh To Bo (Vietnamese Avocado Smoothie).htm"
+      Terms="Drinks &amp; Beverages" />
+    <Url
+      Source="Drinks &amp; Beverages/Tangerine Mimosas.htm"
+      Terms="Drinks &amp; Beverages" />
+    <Url
+      Source="Main Dishes/Chicken Enchilada Casserole.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Chilled Lime Tofu with tomatoes and black beans.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Chipotle Polenta Cakes.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Chock Full of Veggies Chili.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Creole Jambalaya.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Deep-Fried Tofu with Leeks.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Eggplant Rolls with Spicy Tomato Sauce.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Kale and Mushrooms with Polenta.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Kale over Sesame Noodles.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Portobello Mushroom Burgers.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Pot Pie.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Red Lentils and Rice with Blackened Onions.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Spring Risotto.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Stuffed Peppers with Mushrooms, Walnuts, and Greens.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Stuffed Portobellos.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Thai Coconut Red or Green Curry.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Halibut with Broccoli Rabe and Lemon-Thyme Butter.htm"
+      Terms="Fish &amp; Seafood" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Marinated Ahi.htm"
+      Terms="Fish &amp; Seafood" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Mediterranean Sole.htm"
+      Terms="Fish &amp; Seafood" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Roasted Halibut with a Shallot Crust.htm"
+      Terms="Main Dishes" />
+    <Url
+      Source="Main Dishes/Fish and Seafood/Salmon with Fennel and Mashed Potatoes.htm"
+      Terms="Fish &amp; Seafood" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Creamy Vodka and Herb Sauce.htm"
+      Terms="Pasta Dishes &amp; Pasta Sauces" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Eggplant Parmesan.htm"
+      Terms="Pasta Dishes &amp; Pasta Sauces" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Garlic Cream Sauce.htm"
+      Terms="Pasta Dishes &amp; Pasta Sauces" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Leek and Brussels Sprout Pasta.htm"
+      Terms="Pasta Dishes &amp; Pasta Sauces" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Lobster Lasagna.htm"
+      Terms="Pasta Dishes &amp; Pasta Sauces" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/New Mexico Mac and Cheese.htm"
+      Terms="Pasta Dishes &amp; Pasta Sauces" />
+    <Url
+      Source="Pasta Dishes &amp; Pasta Sauces/Stuffed Portobello Mushrooms with Creamed Spinach.htm"
+      Terms="Pasta Dishes &amp; Pasta Sauces" />
+    <Url
+      Source="Salads/Fresh Lobster Salad.htm"
+      Terms="Salads" />
+    <Url
+      Source="Salads/Sugar Snap Salad.htm"
+      Terms="Salads" />
+    <Url
+      Source="Salads/Vegetarian Salad Nicoise.htm"
+      Terms="Salads" />
+    <Url
+      Source="Salads/Warm Squash Salad with Mint.htm"
+      Terms="Salads" />
+    <Url
+      Source="Sides/Asparagus Sauteed with Pecans.htm"
+      Terms="Sides" />
+    <Url
+      Source="Sides/Baked Sweet Potato and Pecans.htm"
+      Terms="Sides" />
+    <Url
+      Source="Sides/Calabazitas.htm"
+      Terms="Sides" />
+    <Url
+      Source="Sides/Cornbread.htm"
+      Terms="Sides" />
+    <Url
+      Source="Sides/Creamed Spinach Deluxe.htm"
+      Terms="Sides" />
+    <Url
+      Source="Sides/Roasted Acorn Squash.htm"
+      Terms="Sides" />
+    <Url
+      Source="Sides/Roasted Basil and Garlic Potatoes.htm"
+      Terms="Sides" />
+    <Url
+      Source="Sides/Saffron Rice.htm"
+      Terms="Sides" />
+    <Url
+      Source="Soups/Avgolemono Soup.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Barley Stew.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Buddha Bowl.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Butternut Squash and Roasted Garlic Bisque.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Caldo Verde.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Cauliflower Soup.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Corn Chowder.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Double Celery and Potato Soup.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Lentil Soup.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Mexican Onion Soup.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Moroccan Stew.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Potato Corn Chowder.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Ramen.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Spicy Sun-Dried Tomato Soup with White Beans &amp; Swiss Chard.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Tuscan Vegetable Soup with White Beans and Parmesan.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/Vegetable Soup.htm"
+      Terms="Soups &amp; Stews" />
+    <Url
+      Source="Soups/White Bean, Kale and Roasted Vegetable Soup.htm"
+      Terms="Soups &amp; Stews" />
+  </UsedUrls>
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>

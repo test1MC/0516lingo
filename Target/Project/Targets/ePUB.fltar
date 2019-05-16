@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="EPUB"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="exclude[Default.Remove4ePub or Default.ScreenOnly]"
+  OutputFile="Cookbook"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  Medium="epub"
+  EnableDynamicContentInEpub="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="footnote"
+    PopupConversion="footnote" />
+  <DocumentProperties
+    Title="F&amp;M's Cookbook"
+    Author="Frank &amp; Michela"
+    Identifier="1234-1234-2345-3456"
+    CoverImage="" />
+  <Validation
+    EnableEpubCheck="true" />
+  <MOBI
+    EnableGenerateMobi="false" />
+</CatapultTarget>

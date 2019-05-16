@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="376" MadCap:lastWidth="1178" MadCap:conditions="" xml:space="preserve">
+    <head>
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h2>砻קยด1ตว融</h2>
+        <p class="from">砻קยด2ตว融</p>
+        <MadCap:snippetBlock src="Resources/Snippets/Ingredients.flsnp" />
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <MadCap:snippetBlock src="Resources/Snippets/Preparation.flsnp" />
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <MadCap:snippetBlock src="Resources/Snippets/Suggestions.flsnp" />
+        <p>  </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <MadCap:snippetBlock src="Resources/Snippets/Information.flsnp" />
+        <p>砻קยด3ตว融</p>
+        <p>&#160;</p>
+        <p>¼ ⅓ ½ ¾ ⅔ °</p>
+        <table style="width: 330px;">
+            <col />
+            <col />
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td style="font-size: 12pt;">
+                        <p>⅛</p>
+                        <p>⅙</p>
+                        <p>⅕</p>
+                        <p>¼</p>
+                    </td>
+                    <td style="font-size: 12pt;">
+                        <p>⅖</p>
+                        <p>⅗</p>
+                        <p>⅜</p>
+                        <p>⅓</p>
+                    </td>
+                    <td style="font-size: 12pt;">
+                        <p>½</p>
+                        <p>⅝</p>
+                        <p>⅔</p>
+                        <p>¾</p>
+                    </td>
+                    <td style="font-size: 12pt;">
+                        <p>⅘</p>
+                        <p>⅚</p>
+                        <p>⅞</p>
+                        <p>°</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

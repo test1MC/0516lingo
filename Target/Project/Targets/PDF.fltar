@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="Adobe FrameMaker Target"
+  Type="PDF"
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="exclude[Default.ScreenOnly] "
+  OutputFile="cookbook">
+  <PDF
+    InitialMagnification="100"
+    PageLayout="OneColumn"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true" />
+  <DocumentProperties
+    Title="Frank &amp; Michela's Cookbook II"
+    Author="Frank &amp; Michela" />
+</CatapultTarget>
